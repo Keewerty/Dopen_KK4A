@@ -1,0 +1,13 @@
+    fieldset{
+    border: 3px solid #bbb;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    }
+
+    form{
+        display: flex;
+        text-align: justify;
+        flex-direction: column;
+        font-size: 12px;
+        align-items: center;
+    }
